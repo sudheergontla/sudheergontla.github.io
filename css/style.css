@@ -842,7 +842,7 @@ form label {
 #fh5co-counter .display-tc h1,
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
-  font-size: 100px;
+  font-size: 60px;
   line-height: 1.5;
   font-family: "Sacramento", Arial, serif;
 }
@@ -942,7 +942,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background: #00aaff;
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
